@@ -1,0 +1,30 @@
+[
+    {
+        "avatar": "",
+        "first": "Alice",
+        "last": "Johnson",
+        "id": "qol8op7",
+        "notes": "",
+        "twitter": "",
+        "createdAt": "2023-01-15T09:24:00Z"
+        
+    },
+    {
+        "avatar": "",
+        "first": "Bob",
+        "last": "Smith",
+        "id": "kx3qwic",
+        "notes": "",
+        "twitter": "",
+        "createdAt": "2023-02-20T12:45:00Z"
+    },
+    {
+        "avatar": "",
+        "first": "Charlie",
+        "last": "Brown",
+        "id": "m540cbp",
+        "notes": "",
+        "twitter": "",
+        "createdAt": "2023-03-10T14:30:00Z"
+    }
+]

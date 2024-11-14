@@ -13,6 +13,9 @@ export async function loader() {
 
 export default function Root() {
     const { contacts } = useLoaderData();
+
+    console.log(contacts)
+
     const navigation = useNavigation();
     return (
         <>
@@ -56,16 +59,14 @@ export default function Root() {
                                                     : ""
                                         }
                                     >
-                                        <Link to={`contacts/${contact.id}`}>
-                                            {contact.first || contact.last ? (
-                                                <>
-                                                    {contact.first} {contact.last}
-                                                </>
-                                            ) : (
-                                                <i>No sName</i>
-                                            )}{" "}
-                                            {contact.favorite && <span>★</span>}
-                                        </Link>
+                                        {contact.first || contact.last ? (
+                                            <>
+                                                {contact.first} {contact.last}
+                                            </>
+                                        ) : (
+                                            <i>No Name</i>
+                                        )}{" "}
+                                        {contact.favorite && <span>★</span>}
                                     </NavLink>
                                 </li>
                             ))}
