@@ -1,22 +1,8 @@
-> **Warning**
-> Bluetooth samples have been migrated to the new
-> [platform-samples repo](https://github.com/android/platform-samples/tree/main/samples/connectivity). Others might follow.
+# React + Vite
 
-Connectivity Samples Repository
-===============================
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This repository contains a set of individual Android Studio projects to help you get started writing Connectivity apps in Android.
+Currently, two official plugins are available:
 
-If you find an issue or bug in one of the projects, feel free to file an issue on this repository with the following information:
-- The specific project that pertains to the issue (for example: the 'BluetoothLeGatt' project)
-- Steps to repro the issue, including the API version and Android device model
-
-Example of a good issue:
-In the BluetoothLeGatt sample, I am unable to see any BLE devices after the initial scan. I ran the sample on a Pixel 2 running API version 28.
-
-Examples of bad issues:
-1. Bluetooth scanning doesn't work.
-2. My app is crashing when I try to send a large file.
-3. How can I support BLE in my app?
-
-Requests for samples related to Android connectivity are also welcome.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
