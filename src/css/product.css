@@ -1,0 +1,72 @@
+.product-list {
+    margin: 20px;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .product-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .product-author {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .product-pricing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin: 10px 0;
+  }
+  
+  .current-price {
+    font-size: 18px;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .original-price {
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #999;
+  }
+  
+  .discount {
+    font-size: 14px;
+    color: green;
+  }
+  
+  .add-to-cart {
+    padding: 10px 15px;
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #ff5722;
+  }
+  

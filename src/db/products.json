@@ -1,0 +1,91 @@
+[
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+      },
+      {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+      },
+      {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+      },
+      {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": 346,
+        "originalPrice": 499,
+        "discount": 30,
+        "image": "path_to_image/good_girls_guide.jpg"
+      },
+        
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "price": 304,
+        "originalPrice": 399,
+        "discount": 23,
+        "image": "path_to_image/sherlock_holmes.jpg"
+    }
+]

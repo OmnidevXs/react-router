@@ -97,3 +97,16 @@ body{background: #f5f6fa;}
 
 #list-2row {list-style-type: none;margin: 0;padding: 0;}
 #list-2row li {display: inline;margin-right: 10px;}
+
+#detail {
+    margin-left: 260px; /* Match the width of the sidebar */
+    padding: 20px; /* Optional: Add padding for spacing */
+    background: #fff; /* Optional: Set a background color */
+    min-height: 100vh; /* Ensure it takes up the full viewport height */
+    overflow-y: auto; /* Allow scrolling for long content */
+    transition: margin-left 0.5s ease; /* Smooth transition for sidebar toggling */
+}
+
+.sidebar.close ~ #detail {
+    margin-left: 0; /* Adjust when the sidebar is closed */
+}
